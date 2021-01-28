@@ -10,10 +10,8 @@ public class Main {
         long viewsCount = 3_123_456_789l;
         //System.out.println("My first MacBook!!!");
        // System.out.println(viewsCount+age);
-
         Date now = new Date();
         System.out.println(now);
-
 
         Point point1 = new Point(1,1);
         Point point2 = point1;
