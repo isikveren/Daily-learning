@@ -13,7 +13,7 @@ public class PhraseOMatic {
         String[] wordListThree = {"process","tipping-point","solution","architecture","core competency","strategy","mindshare","portal",
         "space","vision","paradigm","mission"};
 
-        for(int i = 100;i>0;i--){
+        for(int i = 1000;i>0;i--){
             int oneLength = wordListOne.length;
             int twoLength = wordListTwo.length;
             int threeLength = wordListThree.length;
