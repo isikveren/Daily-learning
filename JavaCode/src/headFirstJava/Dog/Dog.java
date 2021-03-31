@@ -23,7 +23,6 @@ public class Dog {
         while(x < mydog.length){
             mydog[x].bark();
             x++;
-
         }
     }
 
