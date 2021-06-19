@@ -2,6 +2,6 @@
 
 int main(){
     int a = 102;
-    printf("%d %o %x\\",a,a,a);
+    printf("%3d %o %x\\\a",a,a,a);
     return 0;
 }
