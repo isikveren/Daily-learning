@@ -2,6 +2,7 @@
     "files.associations": {
         "cstdio": "cpp",
         "stdio.h": "c",
-        "math.h": "c"
+        "math.h": "c",
+        "SWITCH.C": "cpp"
     }
 }
